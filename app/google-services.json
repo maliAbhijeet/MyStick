@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225636579644",
+    "project_id": "mystick-5b048",
+    "storage_bucket": "mystick-5b048.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225636579644:android:748214b8976021eff7c639",
+        "android_client_info": {
+          "package_name": "com.example.MyStick"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaP918pE3yN4aVNyt1uW5dTOSoumNjukw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
